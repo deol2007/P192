@@ -1,0 +1,37 @@
+{
+  "0": {
+    "piece_name": "Girl With a Pearl Earring",
+    "file_name": "GirlWithAPearlEarring.jpeg",
+    "artist": "Johannes Vermeer",
+    "barcode_value": 0,
+    "description": "Girl with a Pearl Earring is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there."
+  },
+  "1": {
+    "piece_name": "The Starry Might",
+    "file_name": "TheStarryNight.jpeg",
+    "artist": "Vincent Van Gogh",
+    "barcode_value": 1,
+    "description": "The Starry Night is an oil-on-canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh. Painted in June 1889, it depicts the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence, just before sunrise, with the addition of an imaginary village."
+  },
+  "2": {
+    "piece_name": "Mona Lisa",
+    "file_name": "MonaLisa.jpeg",
+    "artist": "Leonardo da Vinci",
+    "barcode_value": 2,
+    "description": "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as 'the best known, the most visited, the most written about, the most sung about, [and] the most parodied work of art in the world'."
+  },
+  "3": {
+    "piece_name": "The School of Athens",
+    "file_name": "TheSchoolofAthens.jpeg",
+    "artist": "Raphael",
+    "barcode_value": 3,
+    "description": "The School of Athens is a fresco by the Italian Renaissance artist Raphael. The fresco was painted between 1509 and 1511 as a part of Raphael's commission to decorate the rooms now known as the Stanze di Raffaello, in the Apostolic Palace in the Vatican."
+  },
+  "4": {
+    "piece_name": "The Raft of the Medusa",
+    "file_name": "TheRaftoftheMedusa.jpeg",
+    "artist": "Théodore Géricault",
+    "barcode_value": 4,
+    "description": "The Raft of the Medusa – originally titled Scène de Naufrage – is an oil painting of 1818–19 by the French Romantic painter and lithographer Théodore Géricault. Completed when the artist was 27, the work has become an icon of French Romanticism."
+  }
+}
